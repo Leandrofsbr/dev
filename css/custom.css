@@ -1,0 +1,128 @@
+
+.barTim{
+  background-color: #004279 !important;
+}
+
+.logo{
+  height: 20px;
+}
+
+.pictureChat{
+  height: 40px;
+}
+
+.buttonMic{
+  height: 65px;
+}
+
+.col-center{
+  text-align: center;
+}
+
+.button-clear {
+    max-height: none;
+}
+
+.bar-footer {
+    height: 100px;
+    background-position: none;
+}
+
+.bar.bar-stable {
+    border: none;
+    background-color: #EDEDED;
+}
+
+.scroll {
+  padding: 10px 0px 50px !important;
+}
+
+.bar.bar-calm {
+  background: none;
+}
+
+.bar.bar-stable.bar-footer {
+  background-image: none;
+}
+
+.bar.bar-stable {
+  background-image: none;
+}
+
+.messagesUser {
+  display: -webkit-box !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  -webkit-align-content: center !important;
+  -ms-flex-line-pack: center !important;
+  align-content: center !important;
+  -webkit-box-align: center !important;
+  -moz-box-align: center !important;
+  -webkit-align-items: center !important;
+  -ms-flex-align: center !important;
+  align-items: right !important;
+  margin-bottom: 8px !important;
+  float: right;
+}
+
+.messagesTim {
+  display: -webkit-box !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  -webkit-align-content: center !important;
+  -ms-flex-line-pack: center !important;
+  align-content: center !important;
+  -webkit-box-align: center !important;
+  -moz-box-align: center !important;
+  -webkit-align-items: center !important;
+  -ms-flex-align: center !important;
+  align-items: left !important;
+  margin-bottom: 8px !important;
+}
+
+.user {
+  color: white;
+  background-color: #117DBF;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: left;
+  max-width: 240px;
+  margin: 0 10px 0 10px;
+}
+
+.tim {
+  color: #000000;
+  background: #F0F4F9;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: left;
+  max-width: 240px;
+  margin: 0 10px 0 10px;
+}
+
+.timeTim {
+    color: #838f9e;
+    display: inline-block;
+    padding-bottom: 10px;
+    text-align: left;
+    max-width: 240px;
+    float: left;
+    margin: 0 10px 0 55px;
+}
+
+.timeUser {
+    color: #838f9e;
+    display: inline-block;
+    padding-bottom: 10px;
+    text-align: left;
+    max-width: 240px;
+    float: right;
+    margin: 0 55px 0 0px;
+}
+
